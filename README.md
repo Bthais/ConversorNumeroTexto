@@ -12,8 +12,13 @@ https://fnwb75vgle.execute-api.us-east-2.amazonaws.com/converter?numero=452
 ### Arquitetura do Projeto
 ![Diagrama](Imagens/Diagrama.PNG)
 
+### Detalhes da Função
+![Diagrama](Imagens/Informações%20sobre%20a%20função.PNG)
+
+### API Gateway
+![Diagrama](Imagens/API%20Gateway.PNG)
+
 ### Exemplo de Request e Response
 ![Exemplo de Request](Imagens/Teste%20Local.PNG)
 
-## Link para as Imagens do Projeto no Notion ##
-https://www.notion.so/Imagens-do-Projeto-14193517433c80e89f83e549202beac1?pvs=4
+
