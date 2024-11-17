@@ -23,6 +23,6 @@ https://fnwb75vgle.execute-api.us-east-2.amazonaws.com/converter?numero=452
 ![Exemplo de Request](Imagens/Teste%20Local.PNG)
 
 ### Resultado Request
-![Resultado Request](Imagens/Resultado%20do%20Request.PNG)
+![Resultado Request](Material%20Atividade%20Criação%20API/Imagens/Resultado%20do%20Request.PNG)
 
 
