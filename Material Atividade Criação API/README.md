@@ -20,7 +20,7 @@ https://fnwb75vgle.execute-api.us-east-2.amazonaws.com/converter?numero=452
 ![Diagrama](Imagens/API%20Gateway.PNG)
 
 ### Exemplo de Request e Response
-![Exemplo de Request](Imagens/Teste%20Local.PNG)
+![Exemplo de Request](Imagens/Teste%20Função.PNG)
 
 ### Resultado Request
 ![Resultado Request](Imagens/Resultado%20do%20Request.PNG)
