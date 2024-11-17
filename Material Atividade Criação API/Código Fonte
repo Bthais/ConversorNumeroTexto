@@ -12,8 +12,11 @@ def lambda_handler(event, context):
         # Retornando a resposta com o texto por extenso
         return {
             'statusCode': 200,
-            'body': json.dumps({'numero': numero, 'texto': texto})
-        }
+            'body': json.dumps({
+                 'numero': numero,
+                 'texto': texto
+        }, indent=4)
+    }
         
     except Exception as e:
         # Tratamento de erro
